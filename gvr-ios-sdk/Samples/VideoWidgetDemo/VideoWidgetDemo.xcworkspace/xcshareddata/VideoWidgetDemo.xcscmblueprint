@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F726B94CC58D785B0D2B622E028CA31A3C2BBBB3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F726B94CC58D785B0D2B622E028CA31A3C2BBBB3" : 0,
+    "AD7A7F1F9219AEF535CF95DEF9932C156CA7B699" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FDF0D367-C585-4FE8-94E2-9CB07470F82D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F726B94CC58D785B0D2B622E028CA31A3C2BBBB3" : "gvr-ios-sdk\/",
+    "AD7A7F1F9219AEF535CF95DEF9932C156CA7B699" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VideoWidgetDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Samples\/VideoWidgetDemo\/VideoWidgetDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:lnmcc\/MyGoogleVR.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AD7A7F1F9219AEF535CF95DEF9932C156CA7B699"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/googlevr\/gvr-ios-sdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F726B94CC58D785B0D2B622E028CA31A3C2BBBB3"
+    }
+  ]
+}
